@@ -1,3 +1,3 @@
-# CC7261_AtividadeSpeedUp
+# AtividadeSpeedUp
 
 Kaique Estanislau de Araujo
