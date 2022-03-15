@@ -7,7 +7,7 @@ with open("data.csv") as file:
 
 media1 = 0
 media2 = 0
-qtdproc = 10
+qtdproc = 50
 data = list(map(int, data))
 
 print('\n\nanalise de %d valores\n\n'%(len(data)))
